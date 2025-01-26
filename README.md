@@ -40,7 +40,7 @@ Setup
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/KeabetsweMP/weather-app.git
+git clone https://github.com/KeabetsweMP/portfolio-project.git
 ```
 
 2. Get an API Key
